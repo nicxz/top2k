@@ -4,3 +4,5 @@ venv/
 lijst.xls
 lijst-2020.xlsx
 lijst.backup
+.vscode/
+.idea/
